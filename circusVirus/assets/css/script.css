@@ -1,0 +1,67 @@
+h1
+{
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+}
+.navbar{
+  text-align: center;
+}
+h2{
+  font-weight: bold;
+  text-align: center;
+  font-style: oblique;
+}
+
+.formular{
+    text-align: center;
+}
+.admin{
+    background-color: #EDE1C1;
+    font-family: 'Orbitron', sans-serif;
+    
+    
+}
+.site{
+    font-family: 'Orbitron', sans-serif;
+    background-image: src"/img/circus.jpg";
+background-color: #EDE1C1;
+  float: left;
+  height: 100%;
+  width: 100%;
+    padding: 4rem;
+}
+.divMainPage{
+padding: 2rem;
+    border-width: 2rem;
+    border-collapse: 2rem;
+}
+h3{
+   font-weight: bold;
+  text-align: center;
+  font-style: oblique;
+  font-size: 1rem;
+}
+.contact{
+    list-style: none;
+}
+.divContactPage{
+padding: 2rem;
+    border-width: 2rem;
+    text-align: left;
+    float : left;
+}
+.carousel-item{
+    height: 25rem;
+    width: 25rem;
+}
+.mainHeader {
+  text-align: center;
+  width: 100%;
+}
+.divLocaPage{
+    float: left;
+}
+li{
+    list-style: none;
+}
